@@ -1,0 +1,27 @@
+AGBOMADZIE DAVID KWASHIE
+
+Lab 01: Basic Python
+
+Exercise 1:
+
+(1) Variable Names
+
+1. x  3. length  5. NUMBER  6. Android_phone1
+
+(2) Types
+
+1. bool  2. float 3. str 4. int 5. str 6. int 7. str 8. bool 9. str 10. str
+
+
+Exercise 2: Boolean
+
+1. False  2. True  3. True  4. True  5. False  6. True
+
+
+Exercise 3: Data Types in Arithmetic
+
+1) 2  2) 2.5  3) 2.5  4) 0  5) 3.5  6) 25  7) 25.0  8) 25.0  9)0
+
+10) 0.3333333333333333
+
+
